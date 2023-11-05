@@ -2,6 +2,8 @@
 
 In this project we have tried to make an Online Wine Ecommerce Website And and added functionally like Signup, Login, Search, Cart page, Payment Page. We used HTML, CSS, JavaScript ,Bootstrap, ES6 Tech Stacks to build this application.
 
+### Deployed link :  https://64dc647497ed712d3fab4cb5--lambent-quokka-6e7d37.netlify.app/index.html
+
 # Team Members:-
 
 1: Vipul Girhe:  https://github.com/heyvipul
